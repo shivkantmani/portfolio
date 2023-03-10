@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Aclonica', sans-serif;
+}
+a{
+    color: #40513B;
+    text-decoration: none;
+}
+a:hover{
+    color: grey;
+}
+
+div{
+    background-color: #EDF1D6;
+}
+
+footer{
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+h1{
+    color: #40513B;
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 5.8rem;
+    margin-top: 0;
+    margin-block-end: 0;
+
+}
+
+nav{
+    padding-right: 40px;
+    text-align: end;
+}
+
+p{
+    color: #40513B;
+    font-size: 1.2em;
+    margin-block-start: 0;
+}
+.a-1{
+    font-size: 25px;
+    margin: auto 40px;
+    opacity: 1.2;
+}
+
+.a-nav{
+    font-size: 25px;
+    margin: auto 25px;
+    opacity: 1.2;
+    border: #40513B;
+}
+.a-nav:hover{
+    border-style: solid;
+    border-color: #9DC08B;
+    border-radius: 20px;
+    padding: 6px;
+    background-color: #9DC08B;
+}
+.col-md-12{
+    padding: 20px;
+    font-size: 10px;
+    opacity: 0.8;
+}
+.footer-container{
+    margin-top: 80px;
+    padding-top: 20px;
+}
+.footer-para-container{
+    margin-block-end: 0;
+}
+.nav-container{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-family: 'Chakra Petch', sans-serif;
+}
+.top-div{
+    position: relative;
+    padding-top: 100px;
+}
+
+.snowflake-img{
+    height: 100px;
+    width: 100px;
+    opacity: 0.5;
+    position: absolute;
+    top: 50px;
+    right: 300px;
+
+}
+.tree-img{
+    height: 500px;
+    width: 500px;
+    opacity: 0.9;
+}
